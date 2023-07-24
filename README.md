@@ -6,7 +6,7 @@
 
 https://www.kali.org/tools/crunch/
 
-_crunch 8 8  0123456789 -o 8numbersWordlist.txt _
+_crunch 8 8  0123456789 -o 8numbersWordlist.txt_
 
  The first two numbers are responsible for the length of the password: a minimum of 8 characters and a maximum of 8 characters. Next we list all the characters we want to use to generate the password: this can be numbers, letters or any other character. The -o flag will put the result of the generation into a file with the name "8numbersWordlist.txt".
 
@@ -22,6 +22,7 @@ https://github.com/derv82/wifite2
 
 To crack a password, we can use tool called aircrack-ng
 
-_aircrack HANDSHAKE.cap -w WORDLIST.txt
-_
+_aircrack HANDSHAKE.cap -w WORDLIST.txt_
+
+
 ![](https://i.imgur.com/cvpYrx3.png)
