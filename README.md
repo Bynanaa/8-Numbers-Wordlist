@@ -1,6 +1,6 @@
 # 8 Numbers Wordlist for WIFI hash bruteforce
 
- Wordlist consisting of all possible combinations of eight-digit numbers. Most suitable for bruteforcing the hash of captured wifi handshakes
+ Wordlist contains all possible combinations of eight-digit numbers. Most suitable for bruteforcing the hash of captured wifi handshakes
 
  First of all, I would like to say that you will find it easier to create such a password yourself using the Crunch Utility.
 
