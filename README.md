@@ -23,6 +23,3 @@ https://github.com/derv82/wifite2
 To crack a password, we can use tool called aircrack-ng
 
 _aircrack HANDSHAKE.cap -w WORDLIST.txt_
-
-
-![](https://i.imgur.com/cvpYrx3.png)
